@@ -1,0 +1,14 @@
+{
+    "version": "1.0.1",
+    "name": "Ovh.name",
+    "description": "Ovh.description",
+    "authors": [
+        {
+            "name": "MLGT",
+            "url": "https://www.mlgt.info/en"
+        }
+    ],
+    "types": [
+        "sms"
+    ]
+}
